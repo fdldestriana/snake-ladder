@@ -1,2 +1,2 @@
-# snake-ladder
-This is the repository that I create to demostrate the snake ladder game in mobile phone using Flutter
+# Snake Ladder 🐍 🪜
+This is the repository that I created to demonstrate the snake ladder game on mobile phones using Flutter
